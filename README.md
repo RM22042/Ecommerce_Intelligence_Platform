@@ -56,12 +56,16 @@ The two fact tables maintain different levels of detail to support accurate anal
 
 ## Power BI Dashboard
 
-The dashboard contains three analytical pages:
+The interactive dashboard consists of three pages:
 
-1. **Executive Overview** — revenue, orders, delivered orders, average order value, and monthly revenue.
-2. **Product & Seller Analysis** — best-selling products, top sellers, and product category performance.
-3. **Customer & Delivery Performance** — order status, delivery performance, customer state-wise revenue, and delivery delays.
+### 1. Executive Overview
+![Executive Overview](docs/images/executive_overview.png)
 
+### 2. Product & Seller Analysis
+![Product & Seller Analysis](docs/images/product_seller_analysis.png)
+
+### 3. Customer & Delivery Performance
+![Customer & Delivery Performance](docs/images/customer_delivery_performance.png)
 ## Key Findings
 
 - Analysed 99,441 unique orders.
